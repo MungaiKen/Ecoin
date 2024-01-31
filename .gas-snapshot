@@ -1,0 +1,8 @@
+Running 7 tests for test/unit/FundMeTest.t.sol:FundMeTest
+[PASS] testAddsFunderToArrayOfFunders() (gas: 97947)
+[PASS] testFundFailsWithoutEnoughETH() (gas: 22978)
+[PASS] testFundUpdatesFundedDataStructure() (gas: 97596)
+[PASS] testOnlyOwnerCanWithdraw() (gas: 97578)
+[PASS] testPriceFeedSetCorrectly() (gas: 15157)
+[PASS] testWithdrawFromASingleFunder() (gas: 83136)
+[PASS] testWithdrawFromMultipleFunders() (gas: 533314)
